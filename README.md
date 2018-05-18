@@ -1,6 +1,5 @@
-# Welcome to freeCodeCamp's About page
+# Welcome to freeCodeCamp's maintenance page
 
-This is a simple static website that we plan to expand once we release our open REST API.
+This is a simple static website that we put up when we're doing planned maintenance on a service.
 
-You can view our about page live here: https://www.freecodecamp.com/about
-
+You can view our about page live here: https://maintenance.freecodecamp.com/
