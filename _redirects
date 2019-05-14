@@ -1,0 +1,6 @@
+# Redirect domain aliases to primary domain
+https://maintenance-page.freecodecamp.org/* https://maintenance.freecodecamp.org/:splat 301!
+https://maintenance.freecodecamp.dev/* https://maintenance.freecodecamp.org/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://maintenance-page.netlify.com/* https://maintenance.freecodecamp.org/:splat 301!
